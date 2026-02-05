@@ -13,7 +13,7 @@ import java.util.Scanner;
 //그리고 이분 탐색을 하되 중복 고려해줘야하니까 조건을 걸어주면됨 .
 //질문 c언어에선 함수 만들줄 아는데 JAVA는 어떻게 만들어야함? -객체 공부해야한다!!
 //BufferedReader + StringTokenizer + StringBuilder 시간 줄이려면 이거 써야하나?
-//그래도 시간초과, 즉 -> 찾고 나서 mid 옮겨서 중복 세기 방법은 비효율적
+//그래도 시간초과, 즉 -> 찾고 나서 mid 옮겨서 중복 세기 방법은 비효율적.
 public class S10816 {
 
     static int lowerbound(int[] arr, int target) {
